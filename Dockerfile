@@ -1,4 +1,4 @@
-FROM jupyter/base-notebook:latest
+FROM waldekm/spfx:latest
 
 # Install .NET CLI dependencies
 
